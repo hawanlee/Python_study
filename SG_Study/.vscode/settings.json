@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "C:\\Users\\hawan\\AppData\\Local\\conda\\conda\\envs\\py2\\python.exe",
+    "python.formatting.provider": "autopep8",
+    "python.linting.pylintEnabled": true
+}
