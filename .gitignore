@@ -9,6 +9,8 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
+python_playaround/
+Python-100-Days
 develop-eggs/
 dist/
 downloads/
